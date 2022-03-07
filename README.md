@@ -20,7 +20,7 @@ public class removedup {
 				
 			}
 		}
-		//System.out.println(cnt);
+		System.out.println(cnt);
 		int b[]=new int[a.length-cnt];
 		int rem=0;
 		for (int i = 0; i < a.length; i++)
